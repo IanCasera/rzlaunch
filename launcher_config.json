@@ -1,0 +1,9 @@
+{
+  "remoteConfigUrl": "https://raw.githubusercontent.com/IanCasera/launcher_rzmu/main/launcher_config.json",
+  "launcherName": "RzLaunch.exe",
+  "mainName": "Main.exe",
+  "versionFile": "version.txt",
+  "clientSettingsFile": "ClientSettings.ini",
+  "launcherVersion": "1.0.0",
+  "checkTimeoutMs": 5000
+}
