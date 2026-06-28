@@ -1,0 +1,16 @@
+{
+  "manifest_version": "1",
+  "client_version": "1.0.1",
+  "patch_version": "1",
+  "minimum_launcher_version": "1.0.0",
+  "files": [
+    {
+      "path": "version.zip",
+      "size": 1.57,
+      "sha256": "7e7e713120974e08f9777ff02cb71b9d6a72154f805a59ddfc4f4bcf9e724313",
+      "required": true,
+      "url": "https://github.com/IanCasera/rzlaunch/releases/download/v1.0.1/version.zip"
+    }
+  ],
+  "signature": ""
+}
