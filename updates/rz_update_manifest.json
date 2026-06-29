@@ -3,13 +3,27 @@
   "client_version": "1.0.1",
   "patch_version": "1",
   "minimum_launcher_version": "1.0.0",
-  "files": [
+  "package_mode": "zip",
+  "packages": [
     {
+      "id": "version.zip",
+      "type": "zip",
       "path": "version.zip",
-      "size": 1.57,
+      "size": 1570000,
       "sha256": "7e7e713120974e08f9777ff02cb71b9d6a72154f805a59ddfc4f4bcf9e724313",
       "required": true,
-      "url": "https://github.com/IanCasera/rzlaunch/releases/download/v1.0.1/version.zip"
+      "url": "https://github.com/IanCasera/rzlaunch/releases/download/v1.0.1/version.zip",
+      "extract_to": ".",
+      "max_uncompressed_size": 250000000,
+      "max_file_count": 5000,
+      "files": [
+        {
+          "path": "Data/Local/RZVersion.ini",
+          "size": 39,
+          "sha256": "7c1817e481714464457fc2642899399b90d22e46d29ff680fe7b016b098d84fa",
+          "required": true
+        }
+      ]
     }
   ],
   "signature": ""
