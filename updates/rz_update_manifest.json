@@ -8,7 +8,7 @@
     {
       "id": "version.zip",
       "type": "zip",
-      "path": "RZPatch_v1.0.1.zip.zip",
+      "path": "RZPatch_v1.0.1.zip",
       "size": 1649989,
       "sha256": "7e7e713120974e08f9777ff02cb71b9d6a72154f805a59ddfc4f4bcf9e724313",
       "required": true,
