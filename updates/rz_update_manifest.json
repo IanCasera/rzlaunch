@@ -6,7 +6,7 @@
   "package_mode": "zip",
   "packages": [
     {
-      "id": "version.zip",
+      "id": "rz_patch_v1.0.1_patch1",
       "type": "zip",
       "path": "RZPatch_v1.0.1.zip",
       "size": 1649989,
