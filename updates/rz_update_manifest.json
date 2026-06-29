@@ -12,7 +12,7 @@
       "size": 1649989,
       "sha256": "7e7e713120974e08f9777ff02cb71b9d6a72154f805a59ddfc4f4bcf9e724313",
       "required": true,
-      "url": "https://github.com/IanCasera/rzlaunch/releases/download/v1.0.1/RZPatch_v1.0.1.zip.zip",
+      "url": "https://github.com/IanCasera/rzlaunch/releases/download/v1.0.1/RZPatch_v1.0.1.zip",
       "extract_to": ".",
       "max_uncompressed_size": 250000000,
       "max_file_count": 5000,
