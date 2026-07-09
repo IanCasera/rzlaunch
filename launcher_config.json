@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.2",
-  "patchUrl": "https://github.com/IanCasera/rzlaunch/releases/download/v1.0.2/version.zip",
+  "latestVersion": "1.0.3",
+  "patchUrl": "https://github.com/IanCasera/rzlaunch/releases/download/v1.0.3/version.zip",
   "sha256": "0f3e5e6a905f2e4c064052acead3e0591ea4976a54d07d233af23aa0a3a3ea55",
   "requiredLauncherVersion": "1.0.0",
   "notes": "Latest client patch"
